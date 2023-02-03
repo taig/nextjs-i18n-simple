@@ -1,0 +1,9 @@
+{
+  "title": "Wie heißt du?",
+  "greeting": "Schön, Dich kennenzulernen,",
+  "placeholder": "Donald Duck",
+  "languageSwitcher": {
+    "code": "en",
+    "label": "In English"
+  }
+}
